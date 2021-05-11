@@ -3,5 +3,4 @@ let lastName = "Jackson";
 
 //Code à faire ici, ne rien changez, aucune autre variable ne doit être créé
 
-let joined = firstName + lastname;
-joined;
+console.log (firstName + " " +lastName);
